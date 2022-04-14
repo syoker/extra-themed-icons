@@ -1,10 +1,13 @@
 # Extra Themed Icons
 
 ## Description
-This module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
+This Magisk Module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
 
 ## Requirements
 - ROOT
+
+## Compatibility
+- Android 12
 - Android 12.1/12L
 - Android 13
 
