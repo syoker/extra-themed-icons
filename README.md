@@ -23,10 +23,14 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - Line Icons by [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News")
 
 ## Changelog
+### 1.1.0
+- Add [20 new filled icons](https://telegra.ph/Reserved-04-14 "New icons for version 1.1.0") by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
+- Optimized zip space
+
 ### 1.0.1
 - Fixed conflict with Pixel Experience Plus v412 themed icons.
 
 ### 1.0.0
 - Initial Build
-- 644 Filled Icons (Thanks [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™"))
-- 295 Line Icons (Thanks [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News"))
+- 644 Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
+- 295 Line Icons by [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News")
