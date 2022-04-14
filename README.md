@@ -11,6 +11,9 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - Android 12.1/12L
 - Android 13
 
+## Notes
+- I recommend deactivating and activating the thematic icons so that the module is well applied.
+
 ## Tested on Device
 - Motorola One Fusion
 
