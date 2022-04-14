@@ -20,6 +20,9 @@ This module adds more icons either lines or filled (you can choose) than a norma
 - Line Icons by [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News")
 
 ## Changelog
+### 1.0.1
+- Fixed conflict with Pixel Experience Plus v412 themed icons.
+
 ### 1.0.0
 - Initial Build
 - 644 Filled Icons (Thanks [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™"))
