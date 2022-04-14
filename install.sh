@@ -151,6 +151,11 @@ on_install() {
 
   android_check
 
+  if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
+    mkdir -p $MODPATH/system/product/overlay
+    rm -f $MODPATH/system//system/product/overlay/ThemedIconsPixelOverlay.apk
+  fi
+
   unzip -o "$ZIPFILE" 'Files/*' -d $MODPATH >&2
 
   if volume_keytest; then
