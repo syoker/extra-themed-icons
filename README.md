@@ -23,7 +23,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 
 ## Credits
 - Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
-- Line Icons by [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News")
+- Line Icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
 
 ## Changelog
 ### 1.2.0
@@ -39,4 +39,4 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 ### 1.0.0
 - Initial Build
 - 644 Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
-- 295 Line Icons by [Lawnchair Team](https://t.me/lawnchairci "Lawnchair News")
+- 295 Line Icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
