@@ -18,8 +18,8 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - Motorola One Fusion
 
 ## Tested on ROM
-- [Pixel Experience 12.1 (build 11/05/2022)](https://t.me/MotoUpdatesbr/13) by [Veeronez](https://t.me/Veeronez "Veeronez in Telegram") (GSI)
-- [Pixel Experience Plus 12.1 v412](https://github.com/ponces/treble_build_pe/releases/tag/v412-plus) by [Ponces](https://github.com/ponces "Ponces in GitHub") (GSI)
+- [Pixel Experience 12.1 (build 11/05/2022)](https://t.me/MotoUpdatesbr/17) by [Veeronez](https://t.me/Veeronez) (GSI)
+- [Pixel Experience Plus 12.1 v412](https://github.com/ponces/treble_build_pe/releases/tag/v412-plus) by [Ponces](https://github.com/ponces) (GSI)
 
 ## Credits
 - Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
