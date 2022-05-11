@@ -1,5 +1,6 @@
 ## Changelog
 ### v1.3.0
+- Fixed strange bug that did not allow flashing the module
 - Add [15 new filled icons](https://telegra.ph/New-icons-for-version-130-05-11 "New icons for version 1.3.0") by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
 
 ### v1.2.0
