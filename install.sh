@@ -21,7 +21,7 @@ print_modname() {
   sleep 2
 }
 
-android_Check() {
+android_check() {
  if [[ $API < API_SUPPORT_MIN ]]; then
    ui_print "• Sorry, you need Android 12 or later to use this module."
    ui_print ""
@@ -30,14 +30,14 @@ android_Check() {
  fi
 }
 
-volume_Keytest() {
+volume_keytest() {
   ui_print "• Volume Key Test"
   ui_print "  Please press any key volume:"
   (/system/bin/getevent -lc 1 2>&1 | /system/bin/grep VOLUME | /system/bin/grep " DOWN" > "$TMPDIR"/events) || return 1
   return 0
 }
 
-volume_Key() {
+volume_key() {
   while (true); do
     /system/bin/getevent -lc 1 2>&1 | /system/bin/grep VOLUME | /system/bin/grep " DOWN" > "$TMPDIR"/events
       if $(cat "$TMPDIR"/events 2>/dev/null | /system/bin/grep VOLUME >/dev/null); then
@@ -51,7 +51,7 @@ volume_Key() {
   fi
 }
 
-install_LineIcons() {
+install_line_icons() {
   if [ -f "/system/product/overlay/ThemedIconsOverlay.apk" ]; then
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
@@ -99,7 +99,7 @@ install_LineIcons() {
   fi
 }
 
-install_FilledIcons() {
+install_filled_icons() {
   if [ -f "/system/product/overlay/ThemedIconsOverlay.apk" ]; then
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
@@ -149,11 +149,11 @@ install_FilledIcons() {
 
 on_install() {
 
-  android_Check
+  android_check
 
   unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 
-  if volume_Keytest; then
+  if volume_keytest; then
     ui_print "  Key test function complete"
     ui_print ""
     sleep 2
@@ -162,17 +162,17 @@ on_install() {
     ui_print "  Volume up(+): Filled icons"
     ui_print "  Volume down(-): Line icons"
     
-    SELECT=volume_Key
+    SELECT=volume_key
     
     if "$SELECT"; then
       ui_print "  Install line icons to system/product/overlay"
       ui_print ""
-      install_LineIcons
+      install_line_icons
       sleep 2
     else
       ui_print "  Install filled icons to system/product/overlay"
       ui_print ""
-      install_FilledIcons
+      install_filled_icons
       sleep 2
     fi
 
