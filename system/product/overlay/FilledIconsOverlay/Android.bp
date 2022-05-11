@@ -1,0 +1,10 @@
+runtime_resource_overlay {
+    name: "LawniconsNexusLauncherOverlay",
+    sdk_version: "current",
+    overrides: [
+        "ThemedIconsOverlay",
+        "PixelLauncherIconsOverlay",
+        "CustomPixelLauncherOverlay"
+    ],
+    product_specific: true
+}
