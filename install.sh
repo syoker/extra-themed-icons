@@ -97,7 +97,7 @@ install_line_icons() {
       fi
     fi
   fi
-  rm $MODPATH/system/product/overlay/FilledIconsOverlay.apk
+  rm -rf $MODPATH/system/product/overlay/FilledIconsOverlay.apk
 }
 
 install_filled_icons() {
@@ -146,7 +146,7 @@ install_filled_icons() {
       fi
     fi
   fi
-  rm $MODPATH/system/product/overlay/LineIconsOverlay.apk
+  rm -rf $MODPATH/system/product/overlay/LineIconsOverlay.apk
 }
 
 on_install() {
