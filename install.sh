@@ -13,7 +13,7 @@ print_modname() {
   ui_print "    Extra Themed Icons"
   ui_print "••••••••••••••••••••••••••"
   ui_print ""
-  ui_print "• Module by @Syoker Hola"
+  ui_print "• Module by @Syoker"
   ui_print "• Filled Icons by TeamFiles"
   ui_print "• Line Icons by Lawnchair Team"
   ui_print ""
