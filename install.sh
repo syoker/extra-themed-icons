@@ -13,9 +13,9 @@ print_modname() {
   ui_print "    Extra Themed Icons"
   ui_print "••••••••••••••••••••••••••"
   ui_print ""
-  ui_print "Module by @Syoker"
-  ui_print "Filled Icons by TeamFiles"
-  ui_print "Line Icons by Lawnchair Team"
+  ui_print "• Module by @Syoker"
+  ui_print "• Filled Icons by TeamFiles"
+  ui_print "• Line Icons by Lawnchair Team"
   ui_print ""
 
   sleep 2
@@ -56,33 +56,33 @@ install_line_icons() {
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
-        cp -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        cp -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
       fi
     else
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        cp -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
       fi
     fi
   else
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
         mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
@@ -90,13 +90,14 @@ install_line_icons() {
     else
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        mv -f $MODPATH/Files/Line_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/
+        mv -f $MODPATH/system/product/overlay/LineIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
       fi
     fi
   fi
+  rm $MODPATH/system/product/overlay/FilledIconsOverlay.apk
 }
 
 install_filled_icons() {
@@ -104,54 +105,55 @@ install_filled_icons() {
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
-        cp -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        cp -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
       fi
     else
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        cp -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
       fi
     fi
   else
     if [ -f "/system/product/overlay/ThemedIconsPixelOverlay.apk" ]; then
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay
-        cp -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        cp -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsPixelOverlay.apk
       fi
     else
       if [ -f "/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk" ]; then
         mkdir -p $MODPATH/system/product/overlay/PixelLauncherIconsOverlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/PixelLauncherIconsOverlay/PixelLauncherIconsOverlay.apk
       else
         mkdir -p $MODPATH/system/product/overlay
-        mv -f $MODPATH/Files/Filled_Icons/ThemedIconsOverlay.apk $MODPATH/system/product/overlay/
+        mv -f $MODPATH/system/product/overlay/FilledIconsOverlay.apk $MODPATH/system/product/overlay/ThemedIconsOverlay.apk
       fi
     fi
   fi
+  rm $MODPATH/system/product/overlay/LineIconsOverlay.apk
 }
 
 on_install() {
 
   android_check
 
-  unzip -o "$ZIPFILE" 'Files/*' -d $MODPATH >&2
+  unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
 
   if volume_keytest; then
     ui_print "  Key test function complete"
