@@ -7,9 +7,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 - ROOT
 
 ## Compatibility
-- Android 12
-- Android 12.1/12L
-- Android 13
+- Android 12 on up
 
 ## Notes
 - I recommend disabling and enabling the thematic icons so that the module is well applied.
