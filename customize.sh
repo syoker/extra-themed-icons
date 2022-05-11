@@ -24,6 +24,3 @@ find "$MODPATH" -empty -type d -delete
 [ -e /data/system/package_cache ] && rm -rf /data/system/package_cache/*
 
 # Finish
-ui_print "- By Tesla, Telegram: @T3SL4"
-ui_print "  https://t.me/PixelProps"
-ui_print "  https://github.com/Pixel-Props"
