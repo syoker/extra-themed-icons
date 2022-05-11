@@ -151,7 +151,7 @@ on_install() {
 
   android_check
 
-  unzip -o "$ZIPFILE" 'system/*' -d $MODPATH >&2
+  unzip -o "$ZIPFILE" 'Files/*' -d $MODPATH >&2
 
   if volume_keytest; then
     ui_print "  Key test function complete"
