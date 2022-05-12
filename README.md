@@ -22,3 +22,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 ## Credits
 - Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
 - Line Icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
+
+## Screenshots
+- With ExtraThemedIcons
+![](https://telegra.ph/file/18877e50ba080dc3fed88.png)
