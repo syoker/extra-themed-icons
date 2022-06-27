@@ -1,5 +1,7 @@
 ## Changelog
 
+### v1.5.0
+- Add [130 new filled icons](https://telegra.ph/Reserved-06-27 "New icons for version 1.5.0") by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
 ### v1.4.0
 - Add [24 new filled icons](https://telegra.ph/Reserved-06-01 "New icons for version 1.4.0") by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
 ### v1.3.0
