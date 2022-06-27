@@ -17,7 +17,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 
 ## Tested on ROM
 - [Fork of Pixel Experience 12.1 v412](https://t.me/MotoUpdatesbr/17) by [Moto Updates](https://t.me/MotoUpdatesbr) (GSI)
-- [Pixel Experience Plus 12.1 v412](https://github.com/ponces/treble_build_pe/releases/tag/v412-plus) by [Ponces](https://github.com/ponces) (GSI)
+- [Pixel Experience Plus 12.1 v413](https://github.com/ponces/treble_build_pe/releases/tag/v412-plus) by [Ponces](https://github.com/ponces) (GSI)
 
 ## Credits
 - Filled Icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™")
