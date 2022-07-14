@@ -129,6 +129,87 @@
 - Yasnac
 - ZArchive
 - Zoom
+#### Filled icons
+- ABA English
+- Adguard VPN
+- Adobe Creative Cloud
+- Alibaba
+- Alight Motion
+- Angry Birds 2
+- AnxCam S
+- APK Editor
+- Art Station
+- Baikoh
+- BetterMe
+- BiliBili Comics
+- BKash
+- Calculator ++
+- Calm
+- CapCut
+- Cat and Soup
+- DataBackup
+- Dota Underlords
+- Energy Infinity
+- Epik
+- Evenbrite
+- Fabulous
+- Fasting
+- Freelancer UpWork
+- Frolomuse
+- Geometry Dash
+- Geometry Dash Lite
+- Geometry Dash Meltdown
+- Geometry Dash Subzero
+- Geometry Dash World
+- Glassdoor
+- Graphene Cam
+- Greenify
+- GTA San Andreas
+- Habit Now
+- Here Wego
+- Here Wego beta
+- HoYoLAB
+- Infinity loop
+- KDE Connect
+- Lime
+- Meitu
+- Mojo
+- Money Manager
+- My Fitness Pal
+- Nagad
+- Node Video
+- NyT Chinese
+- NyT News
+- OnePlus Calculator
+- Open Link With
+- Pharmeasy
+- Photoroom
+- Proton VPN
+- Reev Pro
+- Rocket
+- Root browser
+- Salat
+- Save from helper
+- Shadow Fight 2
+- Simple Calendar
+- Snaptube
+- State of survival
+- Street Fighter IV
+- Stuff Widget
+- Super Retro Mega Wars
+- Tasty
+- Tether
+- Thumper
+- Turnip
+- Twidere X
+- Two Dots
+- Ungoogled Chromium
+- View Ranger
+- Wallet bet
+- Walli4k
+- Wallpaper Engine
+- Webnovel
+- Yummly
 
 ### v1.5.0
 #### Filled icons
