@@ -1,5 +1,135 @@
 ## List of new icons by version
 
+### v1.6.0
+#### Line icons
+- A12 Extensions
+- AccuBattery
+- Aida64
+- AmDroid
+- Among Us
+- Antutu
+- App Manager
+- Aplication Inspector
+- Audio FX
+- AxisNet
+- Bank Jago
+- BCA Mobile
+- Bima Plus
+- BNI Mobile
+- Brawl Stars
+- Bri Mobile
+- Browsec
+- Bukalapac
+- Burger King
+- By u
+- Cell Mapper
+- Clash of Clans
+- Call of Duty Mobile
+- CoinBase
+- Dana
+- DB Navigator
+- Degiro
+- Device Info HW
+- Dislyte
+- Dolby
+- DRM Info
+- DropBox
+- Eight Ball Pool
+- Ella
+- Fingerprint
+- Flashy
+- Flight Radar
+- Flip ID
+- Fox MMM
+- Free Downloader Manager
+- Fritter
+- FXXXS Given
+- Geizhals
+- Genshin Impact
+- Gojek
+- Grab
+- Hago
+- 100TB
+- Brawl Stars
+- Foreground
+- Inter
+- Itau
+- Jenius
+- KLCK
+- KLWP
+- Knife Hit
+- KWGT
+- LastPass
+- Lazada
+- Lbry
+- Libretube
+- Linchess
+- LSPosed
+- Matlog
+- MCDonald's
+- Metadata Remover
+- Mi Remote
+- MicroG Settings
+- Microsoft OneNote
+- Microsoft Remote Desktop
+- Microsoft Solitaire
+- Mobiles Bezahlen
+- Morse
+- Mull
+- MVGO
+- MYIM3
+- MySmartFren
+- MyTelkomsel
+- MyXL
+- Notenapp
+- Nubank
+- OctoApp
+- Odysee
+- Oebb
+- OnePassword
+- OrBot
+- Organic Maps
+- Ovo
+- Pedulilindungi
+- Picpay
+- Pizza Hut
+- Pokemon Go
+- Pokemon Unite
+- PUBG
+- QuickSwitch
+- RockMan X Dive
+- Pushtan
+- Schulmanager
+- SensorBox
+- Simple Gallery
+- Slide Reddit
+- SmartPack Kernel Manager
+- SolarWeb
+- Sonic
+- Sova Five
+- Sparkasse
+- Tagesschau
+- The Economist
+- TinkOff
+- To Dont
+- Tokopedia
+- Total Commander
+- TutaNota
+- Vacation Days
+- Vanced Manager
+- Vimpay
+- Viper4Android
+- WaifuPX
+- Wayback Machine
+- Wear
+- Wetter Online
+- Wikipedia
+- WPS Office
+- Xbox
+- Yasnac
+- ZArchive
+- Zoom
+
 ### v1.5.0
 #### Filled icons
 - 9gag
