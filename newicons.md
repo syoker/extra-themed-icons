@@ -1,0 +1,235 @@
+## List of new icons by version
+
+### v1.5.0
+#### Filled icons
+- 9gag
+- 2048
+- Adidas
+- Adobe Account Access
+- Adobe Analytics
+- Adobe Capture
+- Adobe Connect
+- Adobe Express
+- Adobe Sign
+- Adobe XD
+- Alipay
+- Amongus
+- Ampere
+- Ankidroid
+- Anytype
+- Aurora Droid
+- Autohz
+- Bam
+- Behance
+- Belarus Bank
+- Blinkit
+- BMS
+- Brainly
+- Call of Duty Mobile
+- CPU Throttle
+- Cytus 2
+- Dana
+- Decathlon
+- Diablo Immortal
+- DMRC
+- Dunzo
+- Ear 1
+- Electron
+- Enki
+- Epic Games
+- Fennec
+- Fifa Mobile
+- Forpda
+- Fortnite
+- Fotor
+- Gaana
+- GFX
+- Glasswire
+- GoPro Quick
+- Groww
+- GTC
+- Gumslinger
+- Happn
+- Hesab AZ
+- ICaller
+- Infinite Painter
+- Jiomart
+- Jiosaavn
+- Keiromaker
+- Kodi
+- Kotak Bank
+- Kuro Reader
+- Kuro Reader Pro
+- Leo Bank
+- Life 360
+- Link Device
+- I'm Deluxe
+- Lockscreen Widgets
+- Logcat Extreme
+- Mars
+- MaxMPZ EQ
+- Meesho
+- Metamask
+- Minesweeper
+- Moon Reader
+- Moon Reader Pro
+- My Lifecell
+- Myntra
+- NFS Injector
+- Nord VPN
+- Notion
+- OnePlus Gallery
+- OVO
+- OXP Gaming VPN
+- Pharm Easy
+- PornHub
+- Plex
+- Pokémon Go
+- Pokémon Unite
+- PowerTube
+- ProtonMail
+- Puma
+- QKSMS
+- RePainter
+- Resso
+- RootUninstaller
+- Samulas
+- SC India
+- Screeno
+- Shopsy In
+- SkillShare
+- SKRed
+- SmartHZ
+- Spike
+- Star Plus
+- StoreWards
+- Swiggy
+- Tandem
+- Tata 1mg
+- Telekom
+- TheSouledStore
+- Tigo
+- Todus
+- TopFace
+- Tubi
+- UBank
+- UIBench
+- UtopiaWalls
+- Video Converter Compressor
+- Vivo Easy
+- VK Calls
+- VK Direct
+- VK Messenger
+- VPN GoVPN
+- WattPad
+- Webtoon
+- WeChat
+- Words of Wonders
+- Xbox
+- Yahoo Mail
+- Yelo Bank
+- Youcut
+- Zara
+- Zepp
+- Zomato
+
+### v1.4.0
+#### Filled icons
+- AnyBoost
+- Araz Supermarket
+- Authenticator Pro
+- Dodo Pizza
+- eManat
+- Kino
+- lichess
+- Media Station X
+- Mi Buds M8
+- Orange Fox
+- Okko
+- Physics Wallah
+- Rahat Market
+- Remote
+- Russia VPN
+- Streets of Rage 4
+- Subway Surfers
+- Termius
+- TickTick
+- TV Time
+- Umico
+- Wolt
+- X Manager
+- Yandex Metro
+
+### v1.3.0
+#### Filled icons
+- AGC (updated)
+- Aliexpress New
+- Anixart
+- Flip.kz
+- Jusan
+- Kamepa
+- Lalafo
+- LMC Gcam
+- MilliOn
+- Parrot Recorder
+- Simply
+- Tap.az
+- Turbo.az
+- Via
+- VSCO
+- WebMoney Keeper
+
+### v1.2.0
+#### Filled icons
+- AdGuard Content Blocker
+- AutoDoc LLC
+- Bundled Notes
+- CheckFirm
+- Clash
+- Compass
+- DevCheck
+- DolbyAtmos
+- exteraGram
+- Fuelio
+- Geometric Weather
+- LIDL Plus
+- McDonald's
+- Note It
+- novobanco
+- Pi Network
+- Pingo Doce
+- Pixel Buds
+- PokerStars
+- Root Explorer
+- Shelly
+- VPN Surfshark
+- Tasker
+- Telegram Monet
+- VectorAssetCreator
+- Via Verde
+- WallCanic Walls
+- Zepp Life
+
+### v1.1.0
+#### Filled Icons
+- Another Widget
+- Apex Legends
+- Cricbuzz
+- Flamingo for Twitter
+- Hill Climb Racing
+- Macrodroid
+- MirPay
+- Modo
+- Owlgram
+- Picto
+- Pixel Launcher Mods
+- Shadowsocks
+- Sim Toolkit
+- Snapp Passenger (Local App)
+- Stickers2Whatsapp (Unofficial telegram stickers for WhatsApp)
+- Microsoft SwiftKey
+- TeamPixel (updated)
+- Utorrent
+- Volume Styles
+- Generic Weather Icon
+- WoMic
