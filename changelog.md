@@ -2,6 +2,7 @@
 
 ### v1.6.0
 - Add 127 line icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair GitHub") and add 80 filled icons by [TeamFiles](https://t.me/modulesrepo "Modules Repository | Team Files™") | [New icons here](https://github.com/Syoker/ExtraThemedIcons/blob/main/newicons.md#v160 "New icons for version v1.6.0")
+- Optimized module
 
 ### v1.5.1
 - Fixed file paths
