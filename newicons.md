@@ -1,5 +1,82 @@
 ## List of new icons by version
 
+### v1.7.0
+#### Filled icons
+- 1Password
+- 2FA Authenticator
+- 3C AIO
+- 250 Solitaire Collection
+- A Galley
+- A la mano
+- Aarogya Setu
+- AccuWeather
+- Acko Insurance
+- Acode
+- Activity Launcher
+- ActuFlow
+- Adblock Browser
+- AetherSX2
+- Aha
+- Airasia
+- Airfrozen Disabler
+- Airtel Xstream
+- Alarmio
+- AlfredCamera
+- AliveApp
+- Alkitab
+- Alza
+- Andotp
+- Android IDS
+- Anghami
+- Anilabx
+- Anilib
+- Animeindo
+- Aniyomi
+- Anonytun
+- Another Notes
+- Antennapod
+- Apnacomplex
+- App List Detector
+- Appbar
+- Appcloner
+- Azerisq
+- Brawlhalla
+- Bully
+- Charge Control Root
+- Cifra Club Academy
+- Cifra Club Metronome
+- Cifra Club Tuner
+- CloudStream
+- Covid certificate
+- Focus GO
+- Franco Agenda
+- Franco Servicely
+- GLTools
+- GTA III
+- GTA Liberty City Stories
+- GTA Vice City
+- Honkai Impact 3rd
+- Lastpass
+- Lawnicons by TeamFiles
+- Legends of Runaterra
+- Ma7 Fasty
+- Merge War
+- My Orange Egypt
+- NFG
+- Nothing Camera
+- Nothing SoundRecorder
+- Pixel Gun 3D
+- Power Director
+- Saikou
+- Scientific Calculator
+- Skit Premium - Apps Manager
+- Steam Link
+- TeamFight Tactics
+- Unsplash
+- Web Video Cast
+- XPlayer
+- Xplorer File Manager
+
 ### v1.6.0
 #### Line icons
 - A12 Extensions
