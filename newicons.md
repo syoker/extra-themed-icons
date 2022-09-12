@@ -1,5 +1,40 @@
 ## List of new icons by version
 
+### v1.8.0
+#### Filled icons
+- Find my device
+- Bitmoji
+- Chaldea Gamespace
+- Classroom
+- Deutschebahn
+- Division Resurgence
+- Doppelreim
+- Earth
+- Ebay
+- FLM
+- Forte Bank
+- Halyk
+- Homecredit
+- Leo
+- Naver Dict
+- Naver Map
+- Nest
+- Oisafe
+- OnePlus Camera
+- Post DHL
+- Star Wars Heroes
+- Tower of Fantasy
+- Twewy
+- Unbabel
+- Voice
+- Vtosters
+- Wastickers
+- Webdemail
+- Wienmobil
+- Wordscapes
+- Xbox Game Pass
+- Xenowerk
+
 ### v1.7.0
 #### Filled icons
 - 1Password
