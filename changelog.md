@@ -1,5 +1,8 @@
 ## Changelog
 
+### v1.8.0
+- Add 32 TeamFiles icons by [TeamFiles](https://github.com/TeamFiles "Team Files") | [New icons here](https://github.com/Syoker/ExtraThemedIcons/blob/main/newicons.md#v180 "New icons for version v1.8.0")
+
 ### v1.7.0
 - Add 75 TeamFiles icons by [TeamFiles](https://github.com/TeamFiles "Team Files") | [New icons here](https://github.com/Syoker/ExtraThemedIcons/blob/main/newicons.md#v170 "New icons for version v1.7.0")
 
