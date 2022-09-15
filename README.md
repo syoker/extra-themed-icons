@@ -2,7 +2,7 @@
 
 This Magisk Module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
 > **NOTES:**
-> - These icons are not mine (the credits will be below, I only make the module.
+> - These icons are not mine (the credits will be below, I only make the module).
 > - I recommend disabling and enabling the thematic icons so that the module is well applied.
 
 ![License](https://img.shields.io/github/license/syoker/extra-themed-icons)
