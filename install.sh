@@ -2,7 +2,6 @@ SKIPMOUNT=false
 PROPFILE=false
 POSTFSDATA=false
 LATESTARTSERVICE=false
-API_SUPPORT_MIN=31
 
 REPLACE="
 "
@@ -22,7 +21,7 @@ print_modname() {
 }
 
 android_check() {
- if [[ $API < API_SUPPORT_MIN ]]; then
+ if (( $API < 31 )); then
    ui_print "• Sorry, you need Android 12 or later to use this module."
    ui_print ""
    sleep 2
