@@ -32,7 +32,7 @@ android_check() {
 volume_keytest() {
   ui_print "• Volume Key Test"
   ui_print "  Please press any key volume:"
-  (/system/bin/getevent -lc 1 2>&1 | /system/bin/grep VOLUME | /system/bin/grep " DOWN" > "$TMPDIR"/events) || return 1
+  (timeout 5 /system/bin/getevent -lc 1 2>&1 | /system/bin/grep VOLUME | /system/bin/grep " DOWN" > "$TMPDIR"/events) || return 1
   return 0
 }
 
