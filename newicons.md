@@ -1,5 +1,46 @@
 ## List of new icons by version
 
+### v9.0 (Changed versioning system)
+#### Filled icons
+- ANM Online
+- App Manager
+- App OPS
+- APPMGR Pro 3
+- AppsFree
+- Aqua Mail
+- Aspect Pro
+- Balance
+- DailyHunt
+- Dolby On
+- Dvget
+- eFootball PES
+- English Score
+- Firebase App Distribution
+- Flud
+- Garena AoV
+- Getcontact
+- Koler
+- Kwork
+- Lightleap
+- Linkedin Learning
+- Magroove
+- MyPG
+- Nicegram
+- Offline Podcats App
+- OneFootball
+- Panels Sidebar
+- Sesame Search
+- Shareit
+- TMG
+- Ultimate Facts
+- VI Recharge
+- VI Red
+- VI Yellow
+- Weather Radar Pro
+- Weather Radar
+- Wireguard
+- Yango
+
 ### v1.8.0
 #### Filled icons
 - Find my device

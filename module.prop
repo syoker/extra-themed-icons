@@ -1,7 +1,7 @@
 id=extra-themed-icons
 name=Extra Themed Icons
-version=v1.8.0
-versionCode=11
+version=v9.0
+versionCode=12
 author=Syoker
 description=This module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
 updateJson=https://raw.githubusercontent.com/Syoker/extra-themed-icons/main/update.json
