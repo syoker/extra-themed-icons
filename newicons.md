@@ -1,7 +1,398 @@
 ## List of new icons by version
 
+### v10.0
+#### Lawnicons
+- Actionbound
+- Adaway
+- Adobe
+- Advanced Download Manager
+- AFK Arena
+- AfterShip
+- Alertswiss
+- AliExpress
+- Aliucord Installer
+- Allegro
+- AnkiDroid
+- Another notes app
+- AntennaPod
+- AnyDesk
+- Anything to PiP
+- Apex Legends
+- App Lounge
+- AR Zone
+- Asana
+- ASOS
+- Aves Gallery
+- BandLab
+- Barinsta
+- Bigbasket
+- Bills Reminder
+- Binary Eye
+- Bitmoji
+- Black Screen
+- Blockinger
+- Bloons TD 6
+- BlueBubbles
+- BOI Mobile
+- Book Reader
+- Boom Beach
+- BootBoi
+- Boursorama
+- Box
+- BR24
+- Brave Beta Browser
+- Brave Nightly Browser
+- Calculator Plus
+- Calendar
+- CameraConnect
+- Camo
+- CamScanner
+- CapCut
+- Cardboard
+- Carnet
+- Catima
+- Chrome Remote Desktop
+- Church Tools
+- Citibank Mobile
+- Clash Royale
+- Clipto
+- Clock
+- Codecademy Go
+- Coffe
+- Collabora Office
+- Compass
+- Connect
+- Covid Cert
+- Cred
+- Credit Mutuel
+- Crunchyroll
+- Curiosity Stream
+- Data Monitor
+- Davx5
+- Dealabs
+- DeepL
+- Delta Icons
+- DHL
+- Dominos
+- Dove icons
+- Download Navi
+- Droidify
+- Duolingo
+- Dynamic Spot
+- Enpass
+- Erste Hilfe
+- Every Proxy
+- FamilyPark
+- Fandom
+- Fave
+- Feeder
+- Feedly
+- FFUpdater
+- Figma
+- Firefox Focus
+- Firefox klar
+- Firefox Nightly
+- FirstCry
+- Flasher
+- FLStudio Mobile
+- Flud
+- Flux
+- FM Radio
+- Fortnite
+- Franco Kernel Manager
+- Free
+- Geometric Weather
+- Google Contacts
+- Google Earth
+- Google Health Connect
+- Google Messages
+- Google Phone
+- Google Pixel Watch
+- Google Wallet
+- Grapheneos Apps
+- Grapheneos Auditor
+- Graphing Calc
+- GroupMe
+- HDFC
+- Hijri Calendar
+- Hinge
+- Ho
+- Homeworker
+- IbisPaint X
+- IC Launcher Monochrome
+- Iceraven
+- Icon Pack Studio
+- IDFC
+- ImgurViewer
+- IMobile
+- Iriun Webcam
+- Iti
+- Joplin
+- Just Eat
+- K9 Mail
+- KeepassDX
+- Lawnchair
+- Lawnicons
+- Leboncoin
+- Lemuroid
+- Lesspass
+- LetterBoxD
+- LibreTorrent
+- Liputan6
+- Loop
+- Magic Earth
+- Magic Poser
+- Manipal Hospitals
+- Mastodon
+- Medium
+- Meteo Swiss
+- Mi Fitness
+- Mi Music
+- Mi Video
+- Milanote
+- Mini Metro
+- MobikWik
+- Moodle
+- Mozilla VPN
+- Mullvad VPN
+- My48
+- MyCloud
+- MyPertamina
+- Naver Dictionary
+- Naver Map
+- NC Photos
+- Nebula
+- Neo Storage
+- NetGuard
+- NetZClub
+- NextCloud Deck
+- NextCloud Notes
+- Ninenine
+- Notally
+- Notesnook
+- Notion
+- Obimy
+- Obsidian
+- OLX
+- OpenAPK
+- OpenFoodFacts
+- OpenKeyChain
+- OpenTracks
+- OpenWeather
+- Opera Beta Mini
+- Opera Beta
+- Opera Mini
+- Orgzly
+- Overdrop
+- Owlgram
+- Owntracks
+- Oxigen HD
+- Oxygen Updater
+- Package Manager
+- Pager Duty
+- Password Safe Manager
+- Patreon
+- PaySafeCard
+- PayTM
+- Photo Compare
+- Photo Editor
+- Phototan
+- Physics Wallah
+- Pixapencil
+- PixelDroid
+- PlaySuisse
+- Plex
+- Pons Translate
+- Pou
+- Printer
+- Proddy
+- Proton Calendar
+- Proton Drive
+- QKSMS
+- QR Reader
+- QuickEdit
+- QuillNote
+- QuizDuel
+- Quora
+- Quran
+- Raiffeisen E Banking
+- Raiffeisen Twint
+- Raindrop
+- Read You
+- Redbus
+- Repainter
+- Republik
+- Retro Music
+- Revolt
+- Riot Mobile
+- Roblox
+- S Pushtan
+- Saber
+- Samsung Health Monitor
+- Samsung Health
+- SBB Mobile
+- Scanner
+- Schildichat
+- SchulManager
+- Scrambled Exif
+- Screen Recorder
+- ScreenCam
+- Screenshot Tile Noroot
+- Seal
+- SeriesGuide
+- Sesame
+- Session
+- Share Me
+- Sim Toolkit
+- Simpl Pay
+- Simple QR
+- SkyScanner
+- Sleep
+- Sliceit
+- Slide Reddit
+- Snapdrop
+- SolarWeb
+- Sparkasse
+- Squircle
+- Standard Notes
+- Stats FM
+- Stealth
+- Steam Link
+- Steam
+- Stocard
+- StreetComplete
+- Stremio
+- Sudoku
+- Swiggy
+- Swiss Topo
+- Tachiyomi
+- Talon
+- Tasks
+- Textra
+- The Battle Cats
+- Themes
+- Thenx
+- Threema
+- Tim
+- Timetree
+- Tix ID
+- Todoist
+- Tolino
+- Trail Sense
+- Tricount
+- Trime
+- Twidere
+- Twire
+- Udemy
+- Ulike
+- Unacademy
+- Unidays
+- Untis Mobile
+- Urbano Norte
+- UsageDirect
+- Vimpay
+- Viseca One
+- VLC
+- Vote Info
+- WaifuPX
+- Wayback Machine
+- Waze
+- Wear
+- Weather
+- Wetter Online
+- Wger
+- White Border
+- Who Touched My Phone
+- Wikipedia
+- Wild Rift
+- Wordpress
+- Xodo PDF
+- Xplayer
+- Xstream
+- Xtra
+- Yandex
+- YouTube Kids
+- YouTube Revanced
+- YouVersion
+- Yuka
+- Zalando
+- Zapp
+- Zara
+- Zepp Life
+- Zepto
+#### TeamFiles Icons
+- Adidas Running
+- AllTrails
+- AskFM
+- Atlas VPN
+- Better Internet Tiles
+- Binnaz
+- Blossom
+- CastBox
+- Cats are Cute
+- CheapFlights
+- Coinbase Wallet
+- Coinbase
+- Curve
+- Cybercode Online
+- DanceFitme
+- Daylio
+- Didup Famiglia
+- Exodus Crypto
+- Feedly
+- Financial Times
+- Gett
+- Google Maps GO
+- Guardian
+- Habitica
+- Hiby Music
+- Ho
+- Hotels.com
+- Hryfine
+- Inaturalist
+- JioTV
+- Kahoot
+- Kayak
+- Lingvist
+- M2 Wear
+- Maswear
+- Math Riddles
+- Mi Fitness
+- Microsoft Outlook Lite
+- Microsoft Sharepoint
+- Microsoft Start
+- Mondly
+- Natoora
+- Nothing X
+- Oko VPN
+- Ola Electric
+- PlantNet
+- Radio FM
+- Rainbow Six
+- Relive
+- Ryanair
+- Shapes Anti Stress
+- SkyScanner
+- SurveyMonkey
+- The Guardian Editions
+- Tonkeeper
+- Traffix Simulator
+- Trovo
+- Tunein Pro
+- Tunein
+- Vero
+- VNC Server
+- VNC Viewer
+- Vocal image
+- Voot
+- Walldrobe Wallpapers
+- Washington Post
+- Wise
+- Wizz Air
+- Wonderous
+
 ### v9.0 (Changed versioning system)
-#### Filled icons
+#### TeamFiles Icons
 - ANM Online
 - App Manager
 - App OPS
@@ -42,7 +433,7 @@
 - Yango
 
 ### v1.8.0
-#### Filled icons
+#### TeamFiles Icons
 - Find my device
 - Bitmoji
 - Chaldea Gamespace
@@ -77,7 +468,7 @@
 - Xenowerk
 
 ### v1.7.0
-#### Filled icons
+#### TeamFiles Icons
 - 1Password
 - 2FA Authenticator
 - 3C AIO
@@ -154,7 +545,7 @@
 - Xplorer File Manager
 
 ### v1.6.0
-#### Line icons
+#### Lawnicons
 - A12 Extensions
 - AccuBattery
 - Aida64
@@ -282,7 +673,7 @@
 - Yasnac
 - ZArchive
 - Zoom
-#### Filled icons
+#### TeamFiles Icons
 - ABA English
 - Adguard VPN
 - Adobe Creative Cloud
@@ -365,7 +756,7 @@
 - Yummly
 
 ### v1.5.0
-#### Filled icons
+#### TeamFiles Icons
 - 9gag
 - 2048
 - Adidas
@@ -498,7 +889,7 @@
 - Zomato
 
 ### v1.4.0
-#### Filled icons
+#### TeamFiles Icons
 - AnyBoost
 - Araz Supermarket
 - Authenticator Pro
@@ -525,7 +916,7 @@
 - Yandex Metro
 
 ### v1.3.0
-#### Filled icons
+#### TeamFiles Icons
 - AGC (updated)
 - Aliexpress New
 - Anixart
@@ -544,7 +935,7 @@
 - WebMoney Keeper
 
 ### v1.2.0
-#### Filled icons
+#### TeamFiles Icons
 - AdGuard Content Blocker
 - AutoDoc LLC
 - Bundled Notes
@@ -575,7 +966,7 @@
 - Zepp Life
 
 ### v1.1.0
-#### Filled Icons
+#### TeamFiles Icons
 - Another Widget
 - Apex Legends
 - Cricbuzz

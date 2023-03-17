@@ -18,10 +18,11 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 ## Tested
 - [Fork of Pixel Experience 12.1 v412](https://t.me/MotoUpdatesbr/17) by [Moto Updates](https://t.me/MotoUpdatesbr) (GSI)
 - [Pixel Experience Plus 12.1 v413](https://github.com/ponces/treble_build_pe/releases/tag/v413-plus) by [Ponces](https://github.com/ponces) (GSI)
+- [Project Elixir 13 v3.5](https://projectelixiros.com/device/gsi) by Lynix & KrutosX (GSI)
 
 ## Credits
-- Filled Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
-- Line Icons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
+- TeamFiles Icons by [TeamFiles](https://github.com/TeamFiles "Team Files")
+- Lawnicons by [Lawnchair Team](https://github.com/LawnchairLauncher/lawnicons "Lawnchair News")
 
 ## Screenshots
 ![](/gitimages/readmeimage.png)
