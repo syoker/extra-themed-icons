@@ -5,7 +5,7 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 > **NOTES:**
 >
 > - These icons are not mine (the credits will be below, I only make the module).
-> - I recommend disabling and enabling the thematic icons so that the module is well applied.
+> - I recommend disabling and enabling the thematic icons for the correct functioning of the module.
 
 ![License](https://img.shields.io/github/license/syoker/extra-themed-icons)
 ![Release date](https://img.shields.io/github/release-date/syoker/extra-themed-icons)
