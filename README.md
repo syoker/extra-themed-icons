@@ -32,4 +32,4 @@ This Magisk Module adds more icons either lines or filled (you can choose) than 
 
 ## Screenshots
 
-![](/.github/img//image.png)
+![](https://github.com/Syoker/extra-themed-icons/blob/main/.github/img/image.png)
