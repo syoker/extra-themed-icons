@@ -2,7 +2,7 @@
 
 This Magisk Module adds more icons either lines or filled (you can choose) than a normal Pixel Launcher.
 
-![](https://raw.githubusercontent.com/Syoker/extra-themed-icons/6f39d628a2d3ee70fec5e4a558fd0eb399c16c98/.github/img/image.png)
+![](https://raw.githubusercontent.com/syoker/extra-themed-icons/main/.github/img/image.png)
 
 > **NOTES:**
 >
